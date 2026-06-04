@@ -24,8 +24,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=harshushah&style=for-the-badge"/>
-
 </div>
 
 
@@ -33,7 +31,7 @@
 <h2 align="center">🏆 Professional Logo</h2>
 
 <p align="center">
-<img src="https://your-logo-url.com/hs-logo.png" width="180"/>
+  <img src="https://img.icons8.com/color/240/artificial-intelligence.png" width="180"/>
 </p>
 
 
@@ -41,41 +39,27 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 
-
 <p align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshushah&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=harshushah&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
-<p align="center">
-
-  <img height="170" src="https://streak-stats.demolab.com?user=harshushah&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
-
-<p align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshushah&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshushah&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://img.shields.io/github/stars/harshushah/Search-Intelligence-Platform?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/forks/harshushah/Search-Intelligence-Platform?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/issues/harshushah/Search-Intelligence-Platform?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/last-commit/harshushah/Search-Intelligence-Platform?style=for-the-badge" />
 
 </p>
 
+
+</p>
 
 
 <h2 align="center">📈 Contribution Graph</h2>
@@ -95,15 +79,6 @@
 <img src="https://komarev.com/ghpvc/?username=harshushah&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
-
-
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-<img src="https://github.com/harshushah/harshushah/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 
 
 <h2 align="center">👨‍💼 About Me</h2>
