@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="ChatGPT Image Jun 4, 2026, 04_38_44 PM" src="https://github.com/user-attachments/assets/b316d8d3-abe6-42d9-9d3b-f9c4962cf7a5" />
+<img width="2172" height="724" alt="ChatGPT Image Jun 4, 2026, 04_38_44 PM" src="https://github.com/user-attachments/assets/91c5e749-6e74-41d4-9e20-9a19b9836abc" />
 
 # Harshil Shah 🚀
 
@@ -80,12 +80,8 @@
 
 <h2 align="center">📈 Contribution Graph</h2>
 
-
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshushah&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshushah&theme=tokyo-night" />
 </p>
 
 
